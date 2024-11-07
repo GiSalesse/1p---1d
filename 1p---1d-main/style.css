@@ -2,19 +2,34 @@ body{
     background-color: white;
     color: black;
 }
-header{
-    background-color: #00ffff;
-    color: black;
-    margin: 0;
-    padding: 18px;
-}
+
 
 h3{
     text-align: center;
-}
 
+}
 .primeiro-titulo{
     color: white;
     text-align: center;
+    background-color: blue;
+    padding: 18px;
+    margin: 10px;
 }
-
+.segundo-titulo{
+    color: black;
+    text-align: center;
+    background-color: purple;
+    padding: 18px;
+    margin: 5px;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    padding: 25px;
+    margin: 10;
+}
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
