@@ -1,8 +1,33 @@
 body{
-    background-color: black;
+    background-color: gainsboro;
     color: blue;
 }
 
+segundo-titulo{
+    color: black;
+    text-align: center;
+    background-color: purple;
+    padding: 18px;
+    margin: 5px;
+}
+prineiro-titulo{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    padding: 18px;
+    margin: 5px;
+}
+h1{
+    color:white;
+    text-align: center;
+    background-color: blue;
+    padding: 25px;
+    margin: 10;
+}
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
 h3{
-    text-aling: center;
+    text-align: center;
 }
